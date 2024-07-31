@@ -2,7 +2,7 @@ using System;
 
 namespace Application
 {
-    public class Problem74
+    public class Problem76
     {
         public class Student
         {
